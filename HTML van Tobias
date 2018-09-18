@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<! made by Tobias Bode IS106
+student nummer: 500801907>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link ..... css van brandon
+  <title>Corendon</title>
+</head>
+<body>
+
+<h1>Corendon</h1>
+<h2>Functional requirements</h2>
+<p> * Database met user information.</p>
+<p> class="bg"> * Het systeem moet een persoonlijke profiel kunnen maken voor de gebruiker.</p>
+<p> * De gebruiker moet kunnen inloggen/uitloggen.</p>
+<p> class="bg"> * Notificatie via e-mail of telefoonnummer bij nieuwe match.</p>
+<p> * Een optie om de profielen aan elkaar te kunnen koppelen d.m.v. een match</p>
+<p> class="bg"> * Een notificatie moet verstuurd worden wanneer er een nieuwe match is .</p>
